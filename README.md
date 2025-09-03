@@ -5,7 +5,7 @@ I am a data scientist and machine learning specialist with 10+ years of experien
 I am currently open to collaboration opportunities.
 
 
-### My Skills
+### My skills
 
 - **Programming Languages:** Python, SQL
 - **Core Libraries:** Pandas, NumPy, Scikit-learn
@@ -13,7 +13,7 @@ I am currently open to collaboration opportunities.
 - **Data Visualization:** Matplotlib, Seaborn
 - **Tools & Platforms:** Git, Jupyter, Google Colab
 
-### Contact Me
+### Contact me
 
 - [**Email:** mariam.kuliyeva@gmail.com](mailto:mariam.kuliyeva@gmail.com)
 - [**Telegram:** @evigvinter](https://t.me/evigvinter)
