@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**kuliyeva/kuliyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist and machine learning specialist with 10+ years of experience in marketing and advertising. My background in understanding consumer behavior and business strategy allows me to approach data science challenges with a business-oriented perspective. 
 
-Here are some ideas to get you started:
+I am currently open to collaboration opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My Skills
+
+- **Programming Languages:** Python, SQL
+- **Core Libraries:** Pandas, NumPy, Scikit-learn
+- **Machine Learning Frameworks:** TensorFlow, PyTorch, Hugging Face Transformers
+- **Data Visualization:** Matplotlib, Seaborn
+- **Tools & Platforms:** Git, Jupyter, Google Colab
+
+### Contact Me
+
+- [**Email:** mariam.kuliyeva@gmail.com](mailto:mariam.kuliyeva@gmail.com)
+- [**Telegram:** @evigvinter](https://t.me/evigvinter)
