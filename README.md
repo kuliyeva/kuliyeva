@@ -1,17 +1,16 @@
-## Hello 👋
+## Hi there!
 
-I am a data scientist and machine learning specialist with 10+ years of experience in marketing and advertising. My background in understanding consumer behavior and business strategy allows me to approach data science challenges with a business-oriented perspective. 
-
+I am a data scientist and machine learning specialist with 10+ years of experience in marketing and advertising. 
 I am currently open to collaboration opportunities.
 
 
 ### My skills
 
-- **Programming Languages:** Python, SQL
-- **Core Libraries:** Pandas, NumPy, Scikit-learn
-- **Machine Learning Frameworks:** TensorFlow, PyTorch, Hugging Face Transformers
-- **Data Visualization:** Matplotlib, Seaborn
-- **Tools & Platforms:** Git, Jupyter, Google Colab
+- **Programming languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn
+- **ML Frameworks:** TensorFlow, PyTorch, Hugging Face Transformers
+- **Visualization:** Matplotlib, Seaborn
+- **Tools & platforms:** Git, Jupyter, Google Colab
 
 ### Contact me
 
