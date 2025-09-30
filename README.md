@@ -1,6 +1,7 @@
 ## Hi there!
 
 I am a data scientist and machine learning specialist with 10+ years of experience in marketing and advertising. 
+
 I am currently open to collaboration opportunities.
 
 
