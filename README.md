@@ -11,7 +11,7 @@ I am currently open to collaboration opportunities.
 - **Libraries:** Pandas, NumPy, Scikit-learn
 - **ML Frameworks:** TensorFlow, PyTorch, Hugging Face Transformers
 - **Visualization:** Matplotlib, Seaborn
-- **Tools & platforms:** Git, Jupyter, Google Colab
+- **Tools & platforms:** Jupyter, Google Colab
 
 ### Contact me
 
